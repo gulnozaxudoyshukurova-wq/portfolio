@@ -39,6 +39,7 @@ nav > ul{
     flex-direction:row;
     align-items:center;
     list-style:none;
+    gap:10px;
 }
 
 main{
