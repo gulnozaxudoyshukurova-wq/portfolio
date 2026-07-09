@@ -27,10 +27,10 @@ nav{
 button{
     width:150px;
     height:60px;
+     background-color:#112;
     border-radius:25px;
     border:none;
-    font-size:22px;
-    background-color:#112
+    font-size:20px;
     color:white;
     font-family:system-ui;
 }
@@ -40,7 +40,7 @@ nav > ul{
     flex-direction:row;
     align-items:center;
     list-style:none;
-    gap:10px;
+    gap: 20px;
 }
 
 main{
